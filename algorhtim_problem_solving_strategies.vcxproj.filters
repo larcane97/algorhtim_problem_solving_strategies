@@ -18,7 +18,16 @@
     <ClCompile Include="1.boggle%28practice%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="6.3_PICNIC.cpp">
+    <ClCompile Include="2.PICNIC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3.BOARDCOVER.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4.CLOCKSYNC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0.permutation,combination.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
