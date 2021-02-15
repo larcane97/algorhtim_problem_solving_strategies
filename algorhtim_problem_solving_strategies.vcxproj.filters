@@ -39,5 +39,17 @@
     <ClCompile Include="6.FENCE.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="FANMEETING.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="jumpgame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WILDCARD.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
