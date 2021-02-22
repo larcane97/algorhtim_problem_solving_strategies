@@ -1,11 +1,2 @@
-﻿  PI.cpp
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\PI.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\PI.cpp(29,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\PI.cpp(37,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\PI.cpp(49,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\PI.cpp(64,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\PI.cpp(80,14): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\PI.cpp(83,13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\PI.cpp(85,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\PI.cpp(87,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  QUANTIZE.cpp
   algorhtim_problem_solving_strategies.vcxproj -> C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\Debug\algorhtim_problem_solving_strategies.exe
