@@ -96,5 +96,14 @@
     <ClCompile Include="ZIMBABWE.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="RESTORE.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TICTACTOE.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NUMBERGAME.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

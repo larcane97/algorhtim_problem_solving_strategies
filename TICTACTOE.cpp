@@ -11,7 +11,7 @@ int bijection(const vector<string>& board) {
 		for (int y = 0; y < 3; y++) {
 			ret = ret * 3;
 			if (board[x][y] == 'o') ret++;
-			else if (board[x][y] == 'x') ret += 2;
+			else if (board[x][y] == 'x') ret += 2; 
 		}
 	}
 	return ret;
