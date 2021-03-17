@@ -105,5 +105,20 @@
     <ClCompile Include="NUMBERGAME.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BLOCKGAME.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SUSHI.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GENIUS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LUNCHBOX.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="STRJOIN.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
