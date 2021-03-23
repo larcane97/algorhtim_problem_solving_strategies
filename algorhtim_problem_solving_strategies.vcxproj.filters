@@ -120,5 +120,14 @@
     <ClCompile Include="STRJOIN.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MINASTIRITH.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="combination.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BOARDCOVER2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
