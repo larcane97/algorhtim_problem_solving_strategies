@@ -1,8 +1,2 @@
-﻿  BOARDCOVER2.cpp
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\BOARDCOVER2.cpp(13,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\BOARDCOVER2.cpp(14,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\BOARDCOVER2.cpp(26,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\BOARDCOVER2.cpp(27,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\BOARDCOVER2.cpp(56,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\BOARDCOVER2.cpp(88,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  ALLERGY.cpp
   algorhtim_problem_solving_strategies.vcxproj -> C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\Debug\algorhtim_problem_solving_strategies.exe
