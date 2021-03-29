@@ -135,5 +135,11 @@
     <ClCompile Include="KAKURO2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="DARPA.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ARCTIC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
