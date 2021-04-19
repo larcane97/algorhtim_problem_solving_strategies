@@ -156,5 +156,11 @@
     <ClCompile Include="POTION.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PINBALL.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="vector2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
