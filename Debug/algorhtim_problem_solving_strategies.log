@@ -1,4 +1,3 @@
-﻿  PINBALL.cpp
-  vector2.cpp
-  코드를 생성하고 있습니다...
+﻿  NERDS.cpp
+C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\algorhtim_problem_solving_strategies\vector2.h(86,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   algorhtim_problem_solving_strategies.vcxproj -> C:\Users\moon\source\repos\algorhtim_problem_solving_strategies\Debug\algorhtim_problem_solving_strategies.exe

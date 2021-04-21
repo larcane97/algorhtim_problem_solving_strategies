@@ -159,8 +159,16 @@
     <ClCompile Include="PINBALL.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="vector2.cpp">
+    <ClCompile Include="TREASURE.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="NERDS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="vector2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
