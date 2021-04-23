@@ -165,6 +165,9 @@
     <ClCompile Include="NERDS.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="unionArea.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="vector2.h">
